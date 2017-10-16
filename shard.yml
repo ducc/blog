@@ -1,0 +1,19 @@
+name: blog
+version: 0.1.0
+
+authors:
+  -  <>
+
+targets:
+  blog:
+    main: src/blog.cr
+
+crystal: 0.23.1
+
+license: MIT
+
+
+dependencies:
+  raze:
+    github: samueleaton/raze
+
