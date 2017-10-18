@@ -1,6 +1,6 @@
 # blog
 
-TODO: Write a description here
+Blog about a man that does the code MAN!
 
 ## Installation
 
